@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos for Salim Ansari. Star/fork/language come live from the GitHub API on each run.",
+  "projects": [
+    {
+      "repo": "Automated-Research-Review-Assistant",
+      "description": "Autonomous AI multi-agent workflow for academic paper discovery, synthesis, citation verification, and structured literature report generation."
+    },
+    {
+      "repo": "medilink",
+      "description": "A modern digital healthcare discovery portal and patient appointment reservation engine with real-time validation and a Node.js runtime."
+    },
+    {
+      "repo": "Hack-o-Week-odd-5sem-2026-2027",
+      "description": "Full-stack campus maintenance REST API (CampusCare) paired with machine learning benchmark suites and unsupervised K-Means clustering."
+    },
+    {
+      "repo": "NOIRE--Full-stack-Task-1-",
+      "description": "High-end luxury editorial landing page for an artisanal extrait de parfum house with ambient glow effects and responsive modern CSS grid."
+    }
+  ]
+}

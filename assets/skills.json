@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated engineering skills across AI, ML, Systems, and Full-Stack development.",
+  "axes": [
+    { "label": "Agentic AI",       "value": 95 },
+    { "label": "Machine Learning", "value": 92 },
+    { "label": "Python",           "value": 96 },
+    { "label": "Deep Learning",    "value": 88 },
+    { "label": "Full-Stack APIs",  "value": 90 },
+    { "label": "Databases",        "value": 85 },
+    { "label": "Data Science",     "value": 90 }
+  ]
+}
