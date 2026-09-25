@@ -295,9 +295,11 @@ Hi, I'm **Salim Ansari**. I build things that sit somewhere between machine lear
 | project | category | description | stack |
 |---|---|---|---|
 | **[Automated Research Review Assistant](https://github.com/Salimansari369/Automated-Research-Review-Assistant)** | Autonomous AI | Multi-Agent literature discovery, citation analysis & formatted docx generation | `Python` `Gradio` `Agentic AI` `LLMs` |
-| **[MediLinks](https://github.com/Salimansari369/medilink)** | Healthcare Portal | Doctor appointment reservation engine with input validation & Node server | `JavaScript` `Node.js` `HTML5` `CSS3` |
-| **[CampusCare](https://github.com/Salimansari369/Hack-o-Week-odd-5sem-2026-2027)** | Facility REST API | Campus equipment and infrastructure ticket management microservice | `Python` `Flask` `SQLite` `REST` |
 | **[NOIRÉ](https://github.com/Salimansari369/NOIRE--Full-stack-Task-1-)** | Luxury Web | High-fashion editorial perfume landing experience with ambient glow effects | `Semantic HTML5` `CSS Grid` `UI/UX` |
+| **[CampusCare (Hack-o-Week)](https://github.com/Salimansari369/Hack-o-Week-odd-5sem-2026-2027)** | Facility REST API | Campus equipment and infrastructure ticket management microservice | `Python` `Flask` `SQLite` `REST` |
+| **[JavaScript Lab Suite](https://github.com/Salimansari369/javascript)** | Web Engineering | 9 full practicals covering DOM manipulation, async operations, storage & regex | `JavaScript` `DOM APIs` `Async/Await` `Web` |
+| **[MediLinks](https://github.com/Salimansari369/medilink)** | Healthcare Portal | Doctor appointment reservation engine with input validation & Node server | `JavaScript` `Node.js` `HTML5` `CSS3` |
+| **[Compiler Design Lab](https://github.com/Salimansari369/CC_Lab_Sem_V)** | Systems / Compilers | Lexical analyzers & Yacc parsers with token counters & syntax validation | `C` `Flex` `Bison` `Systems` |
 
 </sub>
 
